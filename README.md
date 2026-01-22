@@ -1,6 +1,6 @@
 # Remove Camera Smoothing
 
-A BepInEx plugin for REPO that removes camera rotation smoothing and input latency.
+A BepInEx plugin for REPO that removes camera rotation smoothing and input latency. Built with .NET Framework 4.8.
 
 ## Installation
 1. Install BepInEx
@@ -14,7 +14,7 @@ Thanks to ChatGPT for assistance during reverse engineering and Harmony patch de
 
 # 移除相机平滑
 
-这是一个适用于 **R.E.P.O.** 的 **BepInEx 插件**，用于移除相机转动时的平滑与输入延迟，使鼠标视角响应更加即时、跟手。
+这是一个适用于 **R.E.P.O.** 的 **BepInEx 插件**，用于移除相机转动时的平滑与输入延迟，使鼠标视角响应更加即时、跟手。基于 .NET Framework 4.8 构建。
 
 ## 安装方法
 1. 安装 **BepInEx**
